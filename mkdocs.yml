@@ -1,5 +1,9 @@
-site_name: Freediving Science
-site_dir: ../freedivingscience
+site_name: Free Flow Freediving & First Aid Education - Freediving Science Wiki
+logo: images/logo.png
+extra_css:
+  - stylesheets/custom.css
+site_dir: site
+docs_dir: docs
 site_url: https://free-flow.gr/freedivingscience/
 theme:
   name: material
@@ -118,6 +122,6 @@ markdown_extensions:
 
 plugins:
   - search
-  - tags:
+  - material/tags:
       tag_page: tags.md
   - macros
