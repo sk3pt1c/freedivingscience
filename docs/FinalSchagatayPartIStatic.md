@@ -1,12 +1,23 @@
 # Finalschagataypartistatic
 
-**Authors**: [Author names here]  
-**Published**: [Year here]
 
-## Abstract
+
+## 🧬 Abstract
+
+
+
+**👤 Authors**: [Author names here]  
+**📅 Published**: [Year here]
+
+
+## 🧠 Break Down
+
+[Add breakdown notes here]
 
 [Abstract here]
 
-## Paper PDF
 
-[Download the paper](papers/FinalSchagatayPartIStatic.pdf)
+
+## 📄 Paper PDF
+
+📥 [Download the paper](papers/FinalSchagatayPartIStatic.pdf)

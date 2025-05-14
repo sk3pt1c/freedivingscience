@@ -1,17 +1,19 @@
-# Welcome to MkDocs
+# Welcome to the Freediving Science Wiki
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is a website under Free Flow Freediving's main website where you can find various scientific papers that have to do with Freediving.
 
-## Commands
+Feel free to click on the Papers menu item or use the search function.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## Structure of each page
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* `Title` - The title of the paper.
+* `Authors` - The authors of the paper.
+* `Published` - Date of publication.
+* `Abstract` - The paper's official abstract.
+* `Description` - An easy to read break down of the paper aimed at non medical professionals.
+* `Paper PDF` - A link to the paper itself.
+
+## Important Note
+
+This is a collection of papers that have been posted here for no intended profit and are meant as a hub to educate the freediving community on freediving physiology. There is intent to infringe on copyright. If you are the author of one of these papers and wish your work to be taken down, please contact me through the [contact page on the main website](https://free-flow.gr/contact.html).
