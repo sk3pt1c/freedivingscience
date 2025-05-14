@@ -1,0 +1,123 @@
+site_name: Freediving Science
+site_dir: ../freedivingscience
+site_url: https://free-flow.gr/freedivingscience/
+theme:
+  name: material
+  features:
+    - tags
+    - navigation.instant
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+    - search.filter
+  palette:
+    scheme: slate
+    primary: teal
+    accent: orange
+nav:
+  - Home: index.md
+  - Papers:
+      - Air Hunger - A Primal Sensation And A Primary Element Of Dyspnea: Air Hunger - A Primal Sensation and a Primary Element of Dyspnea.md
+      - Apnea Diving - Long Term Neurocognitive Sequalae Of Repeated Hypoxemia: Apnea Diving - Long Term Neurocognitive Sequalae of Repeated Hypoxemia.md
+      - Arterial Blood Gas Analysis In Breath Hold Divers At Depth: Arterial Blood Gas Analysis in Breath Hold Divers at Depth.md
+      - Association Between Arterial Oxygen Saturation And Lung Ultrasound B-Lines After Competitive Deep Breath-Hold Diving: Association Between Arterial Oxygen Saturation and Lung Ultrasound B-Lines After Competitive Deep Breath-Hold Diving.md
+      - Attenuation Of The Diving Reflex In Man By Mental Stimulation: Attenuation of the diving reflex in man by mental stimulation.md
+      - Barotrauma And Sipe In Freediving: Barotrauma And SIPE In Freediving.md
+      - Benefits Of Slow Breathing: Benefits of Slow Breathing.md
+      - Breath Hold Diving Workshop 2006: Breath Hold Diving Workshop 2006.md
+      - Carbon Dioxide Transport: Carbon dioxide transport.md
+      - Cardiac Hypoxic Resistance And Decreasing Lactate During Maximum Apnea In Elite Breath Hold Divers: Cardiac hypoxic resistance and decreasing lactate during maximum apnea in elite breath hold divers.md
+      - Cardiovascular Effects Of Coffee: Cardiovascular Effects of Coffee.md
+      - Cellular Glucose Update During Breath Hold Diving: Cellular Glucose Update During Breath Hold Diving.md
+      - Cervical Spondylosis & Phrenic Nerve: Cervical Spondylosis & Phrenic Nerve.md
+      - Changes In Hormones After Apnea: Changes in hormones after apnea.md
+      - Chronic Intermittent Hypoxia Induces Hypoxia-Evoked Catecholamine Efflux In Adult Rat Adrenal Medulla Via Oxidative Stress: Chronic intermittent hypoxia induces hypoxia-evoked catecholamine efflux in adult rat adrenal medulla via oxidative stress.md
+      - Climate Change: Ocean Heat Content, Climate Change, Ocean Heat Content.md
+      - Depth Limits Of Breath Hold Diving (An Example Of Fennology): Depth Limits of Breath Hold Diving (An Example of Fennology).md
+      - Do Elite Breath-Hold Divers Suffer From Mild Short-Term Memory Impairments: Do elite breath-hold divers suffer from mild short-term memory impairments.md
+      - Ear Barotrauma: Ear barotrauma.md
+      - Effect Of The Swimmer'S Head Position On Passive Drag: Effect of the Swimmer's Head Position on Passive Drag.md
+      - Effects-Of-Beetroot: Effects-of-beetroot.md
+      - Efficacy Of A Novel Method For Inspiratory Muscle Training In Chronic Obstructive Pulmonary Disease Patients: Efficacy of a Novel Method for Inspiratory Muscle Training in Chronic Obstructive Pulmonary Disease Patients.md
+      - Endogenous Dmt: Endogenous DMT.md
+      - Estimating The Effect Of Lung Collapse And Pulmonary Shunt On Gas Exchange: Estimating the effect of lung collapse and pulmonary shunt on gas exchange.md
+      - Extravascular Lung Water In Critical Care- Recent Advances And Clinical Applications: Extravascular lung water in critical care- recent advances and clinical applications.md
+      - Extreme Hypoxia Causing Brady-Arrythmias During Apnea In Elite Breath-Hold Divers: Extreme Hypoxia Causing Brady-Arrythmias During Apnea in Elite Breath-Hold Divers.md
+      - Finalschagataypartistatic: FinalSchagatayPartIStatic.md
+      - Food Intolerance Debunking: Food intolerance debunking.md
+      - Freediving Neurophenomenology And Skilled Action - An Investigation Of Brain, Body, And Behavior Through Breath: Freediving neurophenomenology and skilled action - an investigation of brain, body, and behavior through breath.md
+      - Gas Exchange In Dynamic: Gas Exchange in Dynamic.md
+      - Hemoglobin Concentration And Blood Shift During Dry Static Apnea In Elite Breath Hold Divers: Hemoglobin concentration and blood shift during dry static apnea in elite breath hold divers.md
+      - High Prevalence Of Patent Foramen Ovale In Recreational To Elite Breath Hold Divers: High prevalence of patent foramen ovale in recreational to elite breath hold divers.md
+      - Human Footprint In The Abyss: Human footprint in the abyss.md
+      - Hydrodynamic Drag During Gliding In Swimming: Hydrodynamic Drag During Gliding in Swimming.md
+      - Hyperacute Brain Magnetic Resonance Imaging Of Decompression Illness In A Commercial Breath-Hold Diver: Hyperacute brain magnetic resonance imaging of decompression illness in a commercial breath-hold diver.md
+      - Hypoxia Insulin: Hypoxia Insulin.md
+      - Hypoxia And Co2 Retention Following Breath Hold Diving: Hypoxia and CO2 Retention Following Breath Hold Diving.md
+      - Hypoxic Blackout In Serial Freediving – Protective Mechanisms And Risk Factors: Hypoxic Blackout in Serial Freediving – Protective Mechanisms and Risk Factors.md
+      - In Water Resuscitation - Is It Worthwhile: In water resuscitation - is it worthwhile.md
+      - Kinetic Analysis Of The Human Blood-Brain Barrier Transport Of Lactate And Its Influence By Hypercapnia : Kinetic Analysis of the Human Blood-Brain Barrier Transport of Lactate and Its Influence by Hypercapnia .md
+      - Lactate Accumulation In Apneic Sports: Lactate accumulation in apneic sports.md
+      - Lactate As A Metabolite And A Regulator In The Central Nervous System: Lactate as a Metabolite and a Regulator in the Central Nervous System.md
+      - Lactate Transport And Signaling In The Brain - Potential Therapeutic Targets And Roles In Body–Brain Interaction: Lactate transport and signaling in the brain - potential therapeutic targets and roles in body–brain interaction.md
+      - Lorenz Plot Rosita: Lorenz Plot Rosita.md
+      - Lung Packing In Breath Hold Diving - An Impressive Case Of Pulmo Cardiac Interaction: Lung Packing in Breath hold diving - An impressive case of pulmo cardiac interaction.md
+      - Mysterious Snorkel Drownings Explained: Mysterious Snorkel Drownings Explained.md
+      - Mystical Experience In Freediving: Mystical Experience in Freediving.md
+      - Near Dear Experience Scale: Near Dear Experience Scale.md
+      - Nitric Oxide And Oxidative Stress Changes At Depth In Breath Hold Diving: Nitric Oxide and Oxidative Stress Changes at Depth in Breath Hold Diving.md
+      - Oscillating Foil Propulsion: Oscillating Foil Propulsion.md
+      - Oxygen Availability And Motor Unit Activity In Humans: Oxygen availability and motor unit activity in humans.md
+      - Passive-Flooding-Of-Paranasal-Sinuses-And-Middle-Ears-As-A-Method-Of-Equalisation-In-Extreme-Breath: Passive-flooding-of-paranasal-sinuses-and-middle-ears-as-a-method-of-equalisation-in-extreme-breath.md
+      - Physiological And Behavioural Management Of Decompression Stress In Diving Mamals: Physiological and behavioural management of decompression stress in diving mamals.md
+      - Physiology Pathophysiology And (Mal)Adaptations To Chronic Apnoeic Training: Physiology Pathophysiology And (Mal)adaptations to Chronic Apnoeic Training.md
+      - Physiology Of Static Breath Holding In Elite Freedivers: Physiology of Static Breath Holding in Elite Freedivers.md
+      - Plasma Adenosine Release: Plasma adenosine release.md
+      - Pstras Et Al. - The Valsalva Manoeuvre (Physiology And Clinical Examples) (2015): Pstras et al. - The Valsalva manoeuvre (Physiology and clinical examples) (2015).md
+      - Pulmonary And Circulatory Adjustment Determining The Limits Of Depths In Breathhold Diving: Pulmonary and Circulatory Adjustment Determining the Limits of Depths In Breathhold Diving.md
+      - Pulmonary Vascular Adaptations To Hypoxia In Elite Breath-Hold Divers: Pulmonary vascular adaptations to hypoxia in elite breath-hold divers.md
+      - Ros Hypoxia Background Info: ROS hypoxia background info.md
+      - Reactive Oxygen Species In The Control Of Hypoxia-Inducible Factor-Mediated Gene Expression: Reactive oxygen species in the control of hypoxia-inducible factor-mediated gene expression.md
+      - Reflections On Btt - Recommendations For Resuscitation: Reflections on BTT - Recommendations for resuscitation.md
+      - Review Of The Physiology Of Drowning: Review of the Physiology of Drowning.md
+      - Rhythm Of Breathing Affects Memory And Fear - Neuroscience News: Rhythm of Breathing Affects Memory and Fear - Neuroscience News.md
+      - Shagateyonspirulina Lettertoeditor Published: ShagateyonSpirulina lettertoeditor_published.md
+      - Specificity Of Inspiratory Muscle Training: Specificity of inspiratory muscle training.md
+      - Spirometry: Spirometry.md
+      - Submitted Preliminary Aida Sao2 Summary: Submitted Preliminary AIDA SaO2 summary.md
+      - The Hidden Divers - Sponge Harvesting In The Archaeological Record Of The Mediterranean Basin: The Hidden Divers - Sponge harvesting in the archaeological record of the Mediterranean Basin.md
+      - The Limits Of Breath Holding: The Limits of Breath Holding.md
+      - The Physiological Consequences Of Breath-Hold Diving In Marine Mammals, The Scholander Legacy: The Physiological Consequences of Breath-hold Diving in Marine Mammals, The Scholander Legacy.md
+      - The Role Of Training In The Development Of Adaptive Mechanisms In Freedivers: The Role of Training in the Development of Adaptive Mechanisms in Freedivers.md
+      - The Details Of Co2 Transport And Co2 Tolerance For Freedivers: The details of CO2 transport and CO2 tolerance for freedivers.md
+      - The Oxygen Conserving Potential Of The Diving Response A Kinetic Based Analysis-Costalat-2016(2): The oxygen conserving potential of the diving response A kinetic based analysis-Costalat-2016(2).md
+      - The Physiology And Pathophysiology Of Human Breath Hold Diving: The physiology and pathophysiology of human breath hold diving.md
+      - Thoracic Colapse As Affected By The Retia Thoracica In The Dolphin: Thoracic Colapse As Affected By The Retia Thoracica In The Dolphin.md
+      - Trigeminocardiac Reflex Vs Dive Reflex: Trigeminocardiac reflex vs dive reflex.md
+      - Underwater Pulse Oximetry For Blackouts: Underwater Pulse Oximetry for Blackouts.md
+      - Werntz - Selective Hemispheric Stimulation By Unilateral Forced Nostril Breathing: Werntz - Selective hemispheric stimulation by unilateral forced nostril breathing.md
+      - Food Before Dives: food before dives.md
+      - Human Diving Response: human diving response.md
+      - Intermittent Hypoxia: intermittent hypoxia.md
+      - Mammalian Diving Response: mammalian diving response.md
+      - Mri On A Dci Patient: mri on a dci patient.md
+      - Ocean Warming Issues Brief Final: ocean_warming_issues_brief_final.md
+      - Strategy-Analysis-Of-Breathhold-Comp-Dives-Speed-At-Right-Time-Avoids-Bo: strategy-analysis-of-breathhold-comp-dives-speed-at-right-time-avoids-bo.md
+      - Test-Paper: test-paper.md
+  - About This Page: about.md
+  - Tags: tags.md
+markdown_extensions:
+  - meta
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.extra
+
+plugins:
+  - search
+  - tags:
+      tag_page: tags.md
+  - macros
