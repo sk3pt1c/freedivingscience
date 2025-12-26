@@ -1,7 +1,5 @@
 site_name: Freediving Science Wiki
 site_url: https://free-flow.gr/freedivingscience/
-repo_url: https://github.com/sk3pt1c/freedivingscience
-edit_uri: ""
 
 theme:
   palette:
