@@ -1,0 +1,29 @@
+site_name: Freediving Science Wiki
+site_url: https://free-flow.gr/freedivingscience/
+repo_url: https://github.com/sk3pt1c/freedivingscience
+edit_uri: ""
+
+theme:
+  palette:
+    scheme: default
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+
+plugins:
+  - search
+  - tags:
+      tags_file: tags.md
+  - macros
+
+nav:
+  - Home: index.md
+  - Papers: papers/
+  - Learning Paths: paths/
+  - Questions: questions/
+  - Tags: tags.md
