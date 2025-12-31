@@ -2,7 +2,7 @@
 
 This is a curated collection of scientific papers related to freediving physiology, safety, and performance.
 
-**For a list of all the papers, please visit the [tags page](../tags/).**
+**For a list of all the papers, please visit the [tags page](tags/).**
 
 My name is Ioannis Aliazis, I am a freediving instructor, my school is [Free Flow Freediving](https://free-flow.gr).
 
