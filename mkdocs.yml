@@ -1,10 +1,13 @@
-site_name: Freediving Science Wiki
+site_name: Freediving Science Wiki by Free Flow Freediving
 site_url: https://free-flow.gr/freedivingscience/
 
 theme:
   palette:
-    scheme: default
+    scheme: slate
+    primary: blue
+    accent: cyan
   name: material
+  logo: assets/logo.png
   features:
     - navigation.instant
     - navigation.sections
@@ -12,7 +15,8 @@ theme:
     - search.highlight
     - search.suggest
     - content.code.copy
-
+extra_css:
+  - stylesheets/extra.css
 plugins:
   - search
   - tags:
@@ -26,3 +30,4 @@ nav:
   - Learning Paths: paths/
   - Questions: questions/
   - Tags: tags.md
+  - Contact: contact.md

@@ -27,6 +27,11 @@ tags:
 level: intermediate
 ---
 
+# {{ page.meta.title }}
+
+**Authors:** {{ page.meta.authors }}  
+**Date:** {{ page.meta.date }}
+
 > **Reading level:** Intermediate
 
 ## Why This Matters for Freedivers

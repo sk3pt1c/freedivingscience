@@ -22,6 +22,11 @@ tags:
 level: beginner
 ---
 
+# {{ page.meta.title }}
+
+**Authors:** {{ page.meta.authors }}  
+**Date:** {{ page.meta.date }}
+
 > **Reading level:** Beginner
 
 ## Why This Matters for Freedivers

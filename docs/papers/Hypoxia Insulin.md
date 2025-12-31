@@ -23,6 +23,11 @@ tags:
 level: advanced
 ---
 
+# {{ page.meta.title }}
+
+**Authors:** {{ page.meta.authors }}  
+**Date:** {{ page.meta.date }}
+
 > **Reading level:** Advanced
 
 ## Why This Matters for Freedivers
