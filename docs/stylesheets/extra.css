@@ -4,3 +4,8 @@
   height: 40px;   /* change this */
   width: auto;
 }
+
+/* Hide site title at top of left sidebar */
+.md-nav__title[for="__drawer"] {
+  display: none;
+}

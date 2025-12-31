@@ -5,20 +5,20 @@ Start here if you’re new.
 
 ## Start Here
 - [Blackout](../tags/#blackout)
-- hypoxia
-- lung mechanics
+- [Hypoxia](../tags/#hypoxia)
+- [Lung Mechanics](../tags/#lung-mechanics)
 
 ## Safety & Risk
-- blackout
-- edema
-- barotrauma
+- [Blackout](../tags/#blackout)
+- [Edema](../tags/#edema)
+- [Barotrauma](../tags/#barotrauma)
 
 ## Training & Adaptation
-- intermittent hypoxia
-- spleen
-- adaptation
+- [Intermittent Hypoxia](../tags/#intermittent-hypoxia)
+- [Spleen](../tags/#spleen)
+- [Adaptation](../tags/#adaptation)
 
 ## Advanced / Technical
-- blood gases
-- elite divers
-- depth physiology
+- [Blood Gases](../tags/#blood-gases)
+- [Elite Divers](../tags/#elite-divers)
+- [Depth Physiology](../tags/#depth-physiology)
