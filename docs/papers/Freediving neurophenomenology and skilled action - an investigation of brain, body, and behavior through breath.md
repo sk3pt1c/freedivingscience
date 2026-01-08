@@ -1,6 +1,7 @@
 ---
 title: Freediving Neurophenomenology and Skilled Action, Brain, Body, and Behavior Through Breath
 authors: Suraiya Luecke
+doi:
 date: 11 February 2022
 tags:
   - neurophenomenology
@@ -23,10 +24,10 @@ tags:
   - level-advanced
 level: advanced
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Advanced

@@ -1,6 +1,7 @@
 ---
 title: Physiology, Pathophysiology and (Mal)adaptations to Chronic Apnoeic Training: A State-of-the-art Review
 authors: Antonis Elia, M. Gennser, P. S. Harlow, Matthew J. Lees
+doi:
 date: 04 March 2021
 tags:
   - level-intermediate
@@ -19,10 +20,10 @@ tags:
   - safety
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

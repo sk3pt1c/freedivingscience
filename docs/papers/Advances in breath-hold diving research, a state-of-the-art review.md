@@ -1,6 +1,7 @@
 ---
 title: Advances In Breath Hold Diving Research, A State Of The Art Review
 authors: Matteo Paganini · Richard E. Moon · Enrico M. Camporesi · Gerardo Bosco
+doi:
 date: 01 December 2025
 tags:
   - review
@@ -18,10 +19,10 @@ tags:
 level: advanced
     
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Advanced

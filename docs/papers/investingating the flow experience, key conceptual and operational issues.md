@@ -1,6 +1,7 @@
 ---
 title: Investigating the “Flow” Experience, Key Conceptual and Operational Issues
 authors: Sami Abuhamdeh
+doi:
 date: 13 February 2020
 tags:
   - level-intermediate
@@ -22,10 +23,10 @@ tags:
   - immediate-feedback
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}  
 
 > **Reading level:** Intermediate

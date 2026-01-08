@@ -1,6 +1,7 @@
 ---
 title: Cellular Glucose Uptake During Breath-Hold Diving in Experienced Male Breath-Hold Divers
 authors: Nicola Sponsiello, Danilo Cialoni, Massimo Pieri and Alessandro Marroni
+doi:
 date: 2018
 tags:
   - glucose
@@ -15,10 +16,10 @@ tags:
   - level-intermediate
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

@@ -1,6 +1,7 @@
 ---
 title: Training Specificity of Inspiratory Muscle Training Methods, A Randomized Trial
 authors: Marine Van Hollebeke, Rik Gosselink, Daniel Langer
+doi:
 date: 03 December 2020
 tags:
   - level-intermediate
@@ -21,10 +22,10 @@ tags:
   - performance
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

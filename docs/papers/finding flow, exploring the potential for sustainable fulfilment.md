@@ -1,6 +1,7 @@
 ---
 title: Finding Flow, Exploring the Potential for Sustainable Fulfilment
 authors: Amy Isham, Tim Jackson
+doi:
 date: 01 January 2022
 tags:
   - level-beginner
@@ -20,10 +21,10 @@ tags:
   - mental-training
 level: beginner
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}  
 
 > **Reading level:** Beginner

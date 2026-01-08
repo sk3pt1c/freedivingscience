@@ -1,6 +1,7 @@
 ---
 title: Arterial Blood Gas Analysis In Breath Hold Divers At Depth
 authors: Gerardo Bosco, Alex Rizzato, Luca Martani, Simone Schiavo, Ennio Talamonti, Giacomo Garetto, Matteo Paganini, Enrico M. Camporesi and Richard E. Moon
+doi:
 date: 05 November 2018
 tags:
   - blood gases
@@ -16,10 +17,10 @@ tags:
   - level-intermediate
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

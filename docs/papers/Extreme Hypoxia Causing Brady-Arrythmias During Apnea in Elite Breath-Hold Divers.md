@@ -1,6 +1,7 @@
 ---
 title: Extreme Hypoxia Causing Brady-Arrythmias During Apnea in Elite Breath-Hold Divers
 authors: Thomas Kjeld, Anders Brenøe Isbrand, Katrine Linnet, Bo Zerahn, Jens Højberg, Egon Godthaab Hansen, Lars Christian Gormsen, Jacob Bejder, Thomas Krag, John Vissing, Hans Erik Bøtker, Henrik Christian Arendrup
+doi:
 date: 03 December 2021
 tags:
   - arrhythmias
@@ -20,10 +21,10 @@ tags:
   - level-intermediate
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

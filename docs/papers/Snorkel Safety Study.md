@@ -1,6 +1,7 @@
 ---
 title: Mysterious Snorkel Drownings Explained, Snorkel Safety Study (Interim Report)
 authors: Carol Wilcox, Philip R. Foti, Ralph S. Goto
+doi:
 date: 01 July 2020
 tags:
   - level-beginner
@@ -22,10 +23,10 @@ tags:
   - safety
 level: beginner
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

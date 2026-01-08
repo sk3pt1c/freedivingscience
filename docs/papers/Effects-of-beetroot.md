@@ -1,6 +1,7 @@
 ---
 title: Effects of Beetroot Juice Supplementation on Cardiorespiratory Endurance in Athletes. A Systematic Review
 authors: Raúl Domínguez, Eduardo Cuenca, José Luis Maté-Muñoz, Pablo García-Fernández, Noemí Serra-Paya, María Carmen Lozano Estevan, Pablo Veiga Herreros and Manuel Vicente Garnacho-Castaño
+doi:
 date: 6 January 2017
 tags:
   - beetroot juice
@@ -18,10 +19,10 @@ tags:
   - level-intermediate
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

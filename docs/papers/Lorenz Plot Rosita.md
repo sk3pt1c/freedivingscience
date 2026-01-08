@@ -1,6 +1,7 @@
 ---
 title: Poincaré (Lorenz/Scatter) Plot HRV in Freedivers, Hypoxia–Insulin Hypothesis and Practical Use
 authors: Rosita Dangmann
+doi:
 date: 26 December 2021
 tags:
   - hrv
@@ -24,10 +25,10 @@ tags:
   - level-intermediate
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

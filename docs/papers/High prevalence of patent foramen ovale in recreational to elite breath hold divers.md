@@ -1,6 +1,7 @@
 ---
 title: High Prevalence of Patent Foramen Ovale in Recreational to Elite Breath-Hold Divers
 authors: Tyler Kelly, Alexander Patrician, Mohini Bryant-Ekstrand, Courtney Brown, Christopher Gasho, Hannah G. Caldwell, Rachel N. Lord, Tony Dawkins, Aimee Drane, Michael Stembridge, Tanja Dragun, Otto Barak, Boris Spajić, Ivan Drviš, Joseph W. Duke, Glen E. Foster, Philip N. Ainslie, Željko Dujić, Andrew T. Lovering
+doi:
 date: 23 March 2022
 tags:
   - pfo
@@ -21,10 +22,10 @@ tags:
   - level-intermediate
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

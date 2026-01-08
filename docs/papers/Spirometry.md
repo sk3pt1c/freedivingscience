@@ -1,6 +1,7 @@
 ---
 title: Pulmonary Function Testing, Spirometry and Related Tests (Book Chapter)
 authors: Rolf M. Schlegelmilch, Rüdiger Kramme
+doi:
 date: 13 March 2015
 tags:
   - level-intermediate
@@ -24,10 +25,10 @@ tags:
   - airway-resistance
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

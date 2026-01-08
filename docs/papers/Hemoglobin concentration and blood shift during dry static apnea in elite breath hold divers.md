@@ -1,6 +1,7 @@
 ---
 title: Hemoglobin Concentration and Blood Shift During Dry Static Apnea in Elite Breath-Hold Divers
 authors: Thomas Kjeld, Thomas O. Krag, Anders Brenøe, Ann Merete Møller, Henrik Christian Arendrup, Jens Højberg, Dan Fuglø, Søren Hancke, Lars Poulsen Tolbod, Lars Christian Gormsen, John Vissing, Egon Godthaab Hansen
+doi:
 date: 30 April 2024
 tags:
   - blood shift
@@ -20,10 +21,10 @@ tags:
   - level-intermediate
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

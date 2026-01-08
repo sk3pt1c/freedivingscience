@@ -1,6 +1,7 @@
 ---
 title: The Oxygen-Conserving Potential of the Diving Response, A Kinetic-Based Analysis
 authors: Guillaume Costalat, Jeremy Coquart, Ingrid Castres, Fabrice Joulia, Olivier Sirost, Eric Clua, Frédéric Lemaître
+doi:
 date: 11 May 2016
 tags:
   - level-intermediate
@@ -25,10 +26,10 @@ tags:
   - safety
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

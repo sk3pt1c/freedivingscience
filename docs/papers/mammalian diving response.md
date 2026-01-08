@@ -1,6 +1,7 @@
 ---
 title: The Mammalian Diving Response, An Enigmatic Reflex to Preserve Life?
 authors: W. Michael Panneton
+doi:
 date: 01 September 2013
 tags:
   - diving-response
@@ -26,10 +27,10 @@ tags:
   - level-intermediate
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

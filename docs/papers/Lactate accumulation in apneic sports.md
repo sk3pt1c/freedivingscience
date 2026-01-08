@@ -1,6 +1,7 @@
 ---
 title: Blood Lactate Accumulation During Competitive Freediving and Synchronized Swimming
 authors: Lara Rodríguez-Zamora, Harald K. Engan, Angelica Lodin-Sundström, Fanny Schagatay, Xavier Iglesias, Ferran A. Rodríguez, Erika Schagatay
+doi:
 date: January 2018
 tags:
   - lactate
@@ -23,10 +24,10 @@ tags:
   - level-intermediate
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

@@ -1,6 +1,7 @@
 ---
 title: Hydrodynamic Drag During Gliding in Swimming
 authors: Daniel A. Marinho, Victor M. Reis, Francisco B. Alves, João P. Vilas-Boas, Leandro Machado, António J. Silva, Abel I. Rouboa
+doi:
 date: 2009
 tags:
   - level-beginner
@@ -18,10 +19,10 @@ tags:
   - computational-fluid-dynamics
 level: beginner
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

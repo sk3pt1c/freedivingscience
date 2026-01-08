@@ -1,6 +1,7 @@
 ---
 title: Apnea Diving   Long Term Neurocognitive Sequalae Of Repeated Hypoxemia
 authors: Lynne Ridgway and Ken McFarland
+doi:
 date: 2006
 tags:
   - hypoxemia
@@ -16,10 +17,10 @@ tags:
   - level-intermediate
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

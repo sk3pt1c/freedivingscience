@@ -1,6 +1,7 @@
 ---
 title: The Details of CO2 Transport and CO2 Tolerance for Freedivers
 authors: Jaap
+doi:
 date: 10 March 2019
 tags:
   - level-beginner
@@ -19,10 +20,10 @@ tags:
   - physiology
 level: beginner
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

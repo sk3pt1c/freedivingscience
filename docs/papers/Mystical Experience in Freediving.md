@@ -1,6 +1,7 @@
 ---
 title: Mystical Experience in Freediving
 authors: Olga Mitina, Mir Mirsaidov, Natalia Molchanova, Andy Tutrin
+doi:
 date:
 tags:
   - level-intermediate
@@ -18,10 +19,10 @@ tags:
   - dmt
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

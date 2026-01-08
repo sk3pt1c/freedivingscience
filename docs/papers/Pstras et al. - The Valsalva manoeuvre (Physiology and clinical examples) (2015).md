@@ -1,6 +1,7 @@
 ---
 title: The Valsalva Manoeuvre, Physiology and Clinical Examples
 authors: L. Pstras, K. Thomaseth, J. Waniewski, I. Balzani, F. Bellavere
+doi:
 date: 03 December 2015
 tags:
   - level-intermediate
@@ -22,10 +23,10 @@ tags:
   - safety
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

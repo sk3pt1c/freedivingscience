@@ -1,6 +1,7 @@
 ---
 title: The Trigeminocardiac Reflex, A Comparison with the Diving Reflex in Humans
 authors: Frédéric Lemaître, Tumul Chowdhury, Bernhard Schaller
+doi:
 date: 01 April 2015
 tags:
   - level-intermediate
@@ -24,10 +25,10 @@ tags:
   - safety
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

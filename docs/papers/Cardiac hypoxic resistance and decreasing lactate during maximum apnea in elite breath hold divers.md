@@ -1,6 +1,7 @@
 ---
 title: Cardiac Hypoxic Resistance And Decreasing Lactate During Maximum Apnea In Elite Breath Hold Divers
 authors: Thomas Kjeld, Jakob Møller, Kristian Fogh, Egon Godthaab Hansen, Henrik Christian Arendrup, Anders Brenøe Isbrand, Bo Zerahn, Jens Højberg, Ellen Ostenfeld, Henrik Thomsen, Lars Christian Gormsen & Marcus Carlsson
+doi:
 date: 2021
 tags:
   - heart
@@ -20,10 +21,10 @@ tags:
   - level-advanced
 level: advanced
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Advanced

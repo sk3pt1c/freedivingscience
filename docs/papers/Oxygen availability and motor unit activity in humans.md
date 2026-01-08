@@ -1,6 +1,7 @@
 ---
 title: Oxygen Availability and Motor Unit Activity in Humans
 authors: Toshio Moritani, W. Michael Sherman, Masashi Shibata, Tamaki Matsumoto, Minoru Shinohara
+doi:
 date: November 1992
 tags:
   - oxygen-availability
@@ -21,10 +22,10 @@ tags:
   - level-intermediate
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

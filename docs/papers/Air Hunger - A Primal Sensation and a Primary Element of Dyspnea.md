@@ -1,6 +1,7 @@
 ---
 title: Air Hunger - A Primal Sensation And A Primary Element Of Dyspnea
 authors: Robert B. Banzett, Robert W. Lansing and Andrew P. Binks
+doi:
 date: February 2021
 tags:
   - air hunger
@@ -17,10 +18,10 @@ tags:
   - level-advanced
 level: advanced
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Advanced

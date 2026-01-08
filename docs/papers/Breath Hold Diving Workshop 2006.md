@@ -1,6 +1,7 @@
 ---
 title: Breath Hold Diving Workshop 2006
 authors: Peter Lindholm, Neal W. Pollock, Claes EG Lundgren
+doi:
 date: 20-21 June 2006
 tags:
   - workshop proceedings
@@ -21,10 +22,10 @@ tags:
   - level-advanced
 level: advanced
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Advanced

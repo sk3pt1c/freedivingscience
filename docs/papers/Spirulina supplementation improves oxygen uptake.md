@@ -1,15 +1,16 @@
 ---
 title: Spirulina Supplementation Improves Oxygen Uptake
 authors:
+doi:
 date:
 tags:
   - level-beginner
 level: beginner
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

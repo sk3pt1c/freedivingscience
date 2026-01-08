@@ -1,6 +1,7 @@
 ---
 title: Physiology of Drowning, A Review
 authors: Joost J. L. M. Bierens, Philippe Lunetta, Mike Tipton, David S. Warner
+doi:
 date: 17 February 2016
 tags:
   - level-intermediate
@@ -25,10 +26,10 @@ tags:
   - first-aid
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

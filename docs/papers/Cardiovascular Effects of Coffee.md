@@ -1,6 +1,7 @@
 ---
 title: Cardiovascular Effects of Coffee - Is It a Risk Factor?
 authors: Isabella Sudano, Christian Binggeli, Lukas Spieker, Thomas Felix Lüscher, Frank Ruschitzka, Georg Noll, Roberto Corti 
+doi:
 date: 2005
 tags:
   - caffeine
@@ -17,10 +18,10 @@ tags:
   - level-beginner
 level: beginner
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

@@ -1,6 +1,7 @@
 ---
 title: Association Between Arterial Oxygen Saturation And Lung Ultrasound B Lines After Competitive Deep Breath Hold Diving
 authors: Alexander Patrician, Frank Pernett and Erika Schagatay
+doi:
 date: 4 August 2021
 tags:
   - pulmonary edema
@@ -16,10 +17,10 @@ tags:
   - level-intermediate
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

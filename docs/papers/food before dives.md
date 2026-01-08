@@ -1,6 +1,7 @@
 ---
 title: Food Before Dives, Community Discussion (Facebook Thread)
 authors: Anna-Marie Richardson (prompt) and community contributors
+doi:
 date:
 tags:
   - pre-dive nutrition
@@ -20,10 +21,10 @@ tags:
   - level-beginner
 level: beginner
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

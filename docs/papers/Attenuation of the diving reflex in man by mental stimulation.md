@@ -1,6 +1,7 @@
 ---
 title: Attenuation Of The Diving Reflex In Man By Mental Stimulation
 authors: Alvin Ross & Andrew Steptoe
+doi:
 date: 17 July 1979
 tags:
   - diving reflex
@@ -16,10 +17,10 @@ tags:
   - level-beginner
 level: beginner
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

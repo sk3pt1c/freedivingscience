@@ -1,6 +1,7 @@
 ---
 title: Reflections on Blow-Tap-Talk (BTT), Recommendations for Resuscitation in Freediving Blackouts
 authors: (Uncredited / compiled document with medical contributions from Carl Willem, Pierre Michelet and others)
+doi:
 date: 2019
 tags:
   - level-beginner
@@ -21,10 +22,10 @@ tags:
   - training-safety
 level: beginner
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

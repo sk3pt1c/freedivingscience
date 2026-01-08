@@ -1,6 +1,7 @@
 ---
 title: Skill Building in Freediving as an Example of Embodied Culture
 authors: Greg Downey
+doi:
 date: 02 April 2024
 tags:
   - level-intermediate
@@ -31,10 +32,10 @@ tags:
   - blood-shift
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}  
 
 > **Reading level:** Intermediate

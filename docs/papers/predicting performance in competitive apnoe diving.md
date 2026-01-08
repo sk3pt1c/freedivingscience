@@ -1,6 +1,7 @@
 ---
 title: Predicting Performance in Competitive Apnoea Diving, Part I - Static Apnoea
 authors: Erika Schagatay
+doi:
 date: 01 June 2009
 tags:
   - level-intermediate
@@ -30,10 +31,10 @@ tags:
   - safety
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}  
 
 > **Reading level:** Intermediate

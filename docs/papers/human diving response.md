@@ -1,6 +1,7 @@
 ---
 title: The Human Diving Response, Its Function, and Its Control
 authors: G. E. Foster, A. W. Sheel
+doi:
 date: 29 October 2004
 tags:
   - diving-reflex
@@ -25,10 +26,10 @@ tags:
   - level-beginner
 level: beginner
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

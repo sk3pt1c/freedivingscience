@@ -1,6 +1,7 @@
 ---
 title: A Systematic Review and Meta-Analysis of the Relationship Between Flow States and Performance
 authors: David J. Harris, Kate L. Allen, Samuel J. Vine, Mark R. Wilson
+doi:
 date: 27 May 2021
 tags:
   - level-intermediate
@@ -24,10 +25,10 @@ tags:
   - training
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}  
 
 > **Reading level:** Intermediate

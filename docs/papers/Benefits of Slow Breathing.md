@@ -1,6 +1,7 @@
 ---
 title: The physiological effects of slow breathing in the healthy human
 authors: Marc A. Russo, Danielle M. Santarelli, Dean O’Rourke
+doi:
 date: Devember 2017
 tags:
   - slow breathing
@@ -17,10 +18,10 @@ tags:
   - level-beginner
 level: beginner
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

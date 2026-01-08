@@ -1,6 +1,7 @@
 ---
 title: Extravascular Lung Water in Critical Care - Recent Advances and Clinical Applications
 authors: Mathieu Jozwiak, Jean-Louis Teboul, Xavier Monnet
+doi:
 date: 06 November 2015
 tags:
   - pulmonary edema
@@ -18,10 +19,10 @@ tags:
   - level-intermediate
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

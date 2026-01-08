@@ -1,6 +1,7 @@
 ---
 title: The Physiology and Pathophysiology of Human Breath-Hold Diving
 authors: Peter Lindholm, Claes E. G. Lundgren
+doi:
 date: 30 October 2008
 tags:
   - level-intermediate
@@ -29,10 +30,10 @@ tags:
   - alternobaric-vertigo
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

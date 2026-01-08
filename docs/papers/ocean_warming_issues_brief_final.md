@@ -1,6 +1,7 @@
 ---
 title: Ocean Warming
 authors: IUCN (International Union for Conservation of Nature)
+doi:
 date: November 2017
 tags:
   - ocean-warming
@@ -20,10 +21,10 @@ tags:
   - level-beginner
 level: beginner
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

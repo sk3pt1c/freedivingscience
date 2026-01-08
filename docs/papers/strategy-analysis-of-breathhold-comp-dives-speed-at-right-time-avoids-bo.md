@@ -1,6 +1,7 @@
 ---
 title: Breath-hold Diving Strategies to Avoid Loss of Consciousness, Speed Is the Key Factor
 authors: Clément Poiret, Marion Noulhiane, Eric Clua, Frédéric Lemaître
+doi:
 date: 03 December 2020
 tags:
   - level-intermediate
@@ -26,10 +27,10 @@ tags:
   - performance
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

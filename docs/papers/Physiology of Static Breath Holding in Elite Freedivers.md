@@ -1,6 +1,7 @@
 ---
 title: Physiology of Static Breath Holding in Elite Apneists
 authors: Anthony R. Bain, Ivan Drvis, Zeljko Dujic, David B. MacLeod, Philip N. Ainslie
+doi:
 date: 02 March 2018
 tags:
   - static-apnea
@@ -27,10 +28,10 @@ tags:
   - level-intermediate
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

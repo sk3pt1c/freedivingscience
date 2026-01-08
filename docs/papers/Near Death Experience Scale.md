@@ -1,6 +1,7 @@
 ---
 title: The Near-Death Experience Scale
 authors: Bruce Greyson
+doi:
 date: June 1983
 tags:
   - near-death-experience
@@ -22,10 +23,10 @@ tags:
   - level-intermediate
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

@@ -1,6 +1,7 @@
 ---
 title: Rhythm of Breathing Affects Memory and Fear
 authors: Neuroscience News
+doi:
 date: 07 December 2016
 tags:
   - level-beginner
@@ -18,10 +19,10 @@ tags:
   - olfaction
 level: beginner
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

@@ -27,7 +27,7 @@ plugins:
 nav:
   - Home: index.md
   - Papers by topic: papers/
-  - Learning Paths: paths/
+###  - Learning Paths: paths/
   - Questions: questions/
   - Tags (Full paper list): tags.md
   - Contact: contact.md

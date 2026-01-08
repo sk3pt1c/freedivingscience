@@ -1,6 +1,7 @@
 ---
 title: Genetic Predisposition to Breath-Hold Diving-Induced Hemoptysis, Preliminary Study
 authors: Danilo Cialoni, Claudio Marabotti, Nicola Sponsiello, Massimo Pieri, Costantino Balestra, Vittorio Lucchini, Alessandro Marroni
+doi:
 date: 2015
 tags:
   - hemoptysis
@@ -19,10 +20,10 @@ tags:
   - level-intermediate
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

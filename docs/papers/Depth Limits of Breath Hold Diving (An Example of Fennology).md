@@ -1,6 +1,7 @@
 ---
 title: Depth Limits Of Breath Hold Diving (An Example Of Fennology)
 authors: Albert B. Craig, Jr.
+doi:
 date: 1968
 tags:
   - depth limits
@@ -17,10 +18,10 @@ tags:
   - level-intermediate
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

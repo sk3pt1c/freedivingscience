@@ -1,6 +1,7 @@
 ---
 title: Hyperacute Brain Magnetic Resonance Imaging of Decompression Illness in a Commercial Breath-Hold Diver
 authors: Kiyotaka Kohshi, Yoshitaka Morimatsu, Hideki Tamaki, Tatsuya Ishitake, Petar J. Denoble
+doi:
 date: 20 March 2020
 tags:
   - decompression-illness
@@ -20,10 +21,10 @@ tags:
   - level-intermediate
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

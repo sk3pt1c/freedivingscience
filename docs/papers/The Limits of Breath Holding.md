@@ -1,6 +1,7 @@
 ---
 title: The Limits of Breath Holding
 authors: Michael J. Parkes
+doi:
 date: April 2012
 tags:
   - level-beginner
@@ -21,10 +22,10 @@ tags:
   - safety
 level: beginner
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

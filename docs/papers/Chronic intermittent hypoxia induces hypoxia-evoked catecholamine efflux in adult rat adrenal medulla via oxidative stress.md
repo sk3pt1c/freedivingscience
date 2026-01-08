@@ -1,6 +1,7 @@
 ---
 title: Chronic Intermittent Hypoxia Induces Hypoxia Evoked Catecholamine Efflux In Adult Rat Adrenal Medulla Via Oxidative Stress
 authors: Ganesh K. Kumar, Vandana Rai, Suresh D. Sharma, Devi Prasadh Ramakrishnan, Ying-Jie Peng, Dangjai Souvannakitti and Nanduri R. Prabhakar
+doi:
 date: 14 June 2006
 tags:
   - intermittent hypoxia
@@ -17,10 +18,10 @@ tags:
   - level-advanced
 level: advanced
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Advanced

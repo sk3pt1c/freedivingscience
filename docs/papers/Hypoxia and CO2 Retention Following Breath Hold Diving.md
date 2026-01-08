@@ -1,6 +1,7 @@
 ---
 title: Hypoxia and Carbon Dioxide Retention Following Breath-Hold Diving
 authors: Poul-Erik Paulev, Noe Naeraa
+doi:
 date: 1967
 tags:
   - hypoxia
@@ -16,10 +17,10 @@ tags:
   - level-intermediate
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

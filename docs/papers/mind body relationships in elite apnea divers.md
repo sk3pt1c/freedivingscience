@@ -1,6 +1,7 @@
 ---
 title: Mind-Body Relationships in Elite Apnea Divers During Breath Holding, A Study of Autonomic Responses to Acute Hypoxemia
 authors: Marco Laurino, Danilo Menicucci, Francesca Mastorci, Paolo Allegrini, Andrea Piarulli, Enzo P. Scilingo, Remo Bedini, Alessandro Pingitore, Mirko Passera, Antonio L’Abbate, Angelo Gemignani
+doi:
 date: 21 March 2012
 tags:
   - level-intermediate
@@ -24,10 +25,10 @@ tags:
   - air-hunger
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}  
 
 > **Reading level:** Intermediate

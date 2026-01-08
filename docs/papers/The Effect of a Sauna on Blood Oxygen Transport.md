@@ -1,6 +1,7 @@
 ---
 title: The Effect of a Sauna on Blood Oxygen Transport and the Prooxidant–Antioxidant Balance in Untrained Subjects
 authors: V. V. Zinchuk, D. D. Zhadko
+doi:
 date: 11 April 2011
 tags:
   - level-intermediate
@@ -26,10 +27,10 @@ tags:
   - thermoregulation
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

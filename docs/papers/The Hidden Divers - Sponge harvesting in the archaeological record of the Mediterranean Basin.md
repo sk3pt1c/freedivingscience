@@ -1,6 +1,7 @@
 ---
 title: The Hidden Divers, Sponge Harvesting in the Archaeological Record of the Mediterranean Basin
 authors: Emilio Rodríguez-Álvarez
+doi:
 date:
 tags:
   - level-intermediate
@@ -18,10 +19,10 @@ tags:
   - economy
 level: intermediate
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

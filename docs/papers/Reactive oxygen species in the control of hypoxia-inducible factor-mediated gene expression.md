@@ -1,6 +1,7 @@
 ---
 title: Reactive Oxygen Species in the Control of Hypoxia-Inducible Factor-Mediated Gene Expression
 authors: Thomas Kietzmann, Agnes Görlach
+doi:
 date: 17 May 2005
 tags:
   - level-advanced
@@ -27,10 +28,10 @@ tags:
   - mapk
 level: advanced
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Advanced

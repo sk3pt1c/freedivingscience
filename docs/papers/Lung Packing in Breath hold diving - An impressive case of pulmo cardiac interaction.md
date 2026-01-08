@@ -1,6 +1,7 @@
 ---
 title: Lung Packing in Breath-Hold Diving, An Impressive Case of Pulmo-Cardiac Interaction
 authors: Jochen D. Schipke, Malte Kelm, Klaus Siegmund, Thomas Muth, Burkhard Sievers, Stephan Steiner
+doi:
 date: 14 September 2015
 tags:
   - lung-packing
@@ -18,10 +19,10 @@ tags:
   - level-beginner
 level: beginner
 ---
-
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
+**DOI:** {{ page.meta.doi }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner
