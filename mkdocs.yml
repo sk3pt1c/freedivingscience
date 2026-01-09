@@ -26,6 +26,7 @@ plugins:
 
 nav:
   - Home: index.md
+  - Free Flow Website: https://free-flow.gr
   - Papers by topic: papers/
 ###  - Learning Paths: paths/
   - Questions: questions/
