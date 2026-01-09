@@ -1,7 +1,7 @@
 ---
 title: Lactate Transport and Signaling in the Brain, Potential Therapeutic Targets and Roles in Body–Brain Interaction
 authors: Linda Hildegard Bergersen
-doi:
+source: https://doi.org/10.1038/jcbfm.2014.206
 date: 26 November 2014
 tags:
   - lactate
@@ -31,7 +31,7 @@ level: advanced
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Advanced

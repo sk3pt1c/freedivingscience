@@ -1,7 +1,7 @@
 ---
 title: Investigating the “Flow” Experience, Key Conceptual and Operational Issues
 authors: Sami Abuhamdeh
-doi:
+source: https://doi.org/10.3389/fpsyg.2020.00158
 date: 13 February 2020
 tags:
   - level-intermediate
@@ -26,7 +26,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}  
 
 > **Reading level:** Intermediate

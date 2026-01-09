@@ -1,7 +1,7 @@
 ---
 title: Intermittent Hypoxia Revisited, A Promising Non-Pharmaceutical Strategy to Reduce Cardio-Metabolic Risk Factors?
 authors: Guillaume Costalat, Frederic Lemaitre, Barbara Tobin, Gillian Mary Claire Renshaw
-doi:
+source: https://doi.org/10.1007/s11325-017-1459-8
 date: 05 January 2017
 tags:
   - intermittent-hypoxia
@@ -26,7 +26,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

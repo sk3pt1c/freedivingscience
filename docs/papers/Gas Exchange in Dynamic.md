@@ -1,7 +1,7 @@
 ---
 title: Features of Gas Exchange in an Advanced-Level Freediver During Monofin Practice in a Pool
 authors: Natalia Molchanova, Vitaly Rybakov, Eugene Kalinin, Anna Kamenshikova
-doi:
+source: https://doi.org/10.31236/osf.io/8jnbr
 date: 2013
 tags:
   - dynamic-apnea
@@ -25,7 +25,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

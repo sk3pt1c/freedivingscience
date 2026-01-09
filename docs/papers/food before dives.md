@@ -1,8 +1,8 @@
 ---
 title: Food Before Dives, Community Discussion (Facebook Thread)
 authors: Anna-Marie Richardson (prompt) and community contributors
-doi:
-date:
+source: Facebook
+date: n/a
 tags:
   - pre-dive nutrition
   - meal timing
@@ -24,7 +24,7 @@ level: beginner
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

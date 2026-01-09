@@ -1,7 +1,7 @@
 ---
 title: An Insulin-Based Model to Explain Changes and Interactions in Human Breath-Holding
 authors: Rosita Dangmann
-doi:
+source: https://doi.org/10.1016/j.mehy.2015.02.010
 date: 19 February 2015
 tags:
   - insulin
@@ -26,7 +26,7 @@ level: advanced
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Advanced

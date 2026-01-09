@@ -1,7 +1,7 @@
 ---
 title: Passive Flooding of Paranasal Sinuses and Middle Ears as a Method of Equalisation in Extreme Breath-Hold Diving
 authors: Peter Germonpré, Costantino Balestra, Patrick Musimu
-doi:
+source: https://doi.org/10.1136/bjsm.2010.043679
 date: 19 October 2010
 tags:
   - equalization
@@ -31,7 +31,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

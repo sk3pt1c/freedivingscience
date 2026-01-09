@@ -1,7 +1,7 @@
 ---
 title: Lactate increases oxygen unloading of preconditioned blood from male elite breath-hold divers
 authors: Thomas Kjeld, Egon Godthaab Hansen, Henrik Christian Arendrup, Jens Højberg, Anders Nedergaard, Thomas Krag, John Vissing
-doi:
+source: https://doi.org/10.14814/phy2.70698
 date: 28 November 2025
 tags:
   - level-intermediate
@@ -21,7 +21,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}  
 
 > **Reading level:** Intermediate

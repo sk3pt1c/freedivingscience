@@ -1,7 +1,7 @@
 ---
 title: N, N-Dimethyltryptamine (DMT), an Endogenous Hallucinogen: Past, Present, and Future Research to Determine Its Role and Function
 authors: Steven A. Barker
-doi:
+source: https://doi.org/10.3389/fnins.2018.00536
 date: 06 August 2018
 tags:
   - dmt
@@ -23,7 +23,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

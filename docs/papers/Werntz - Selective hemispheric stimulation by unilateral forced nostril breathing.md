@@ -1,7 +1,7 @@
 ---
 title: Selective Hemispheric Stimulation by Unilateral Forced Nostril Breathing
 authors: D. A. Werntz, R. G. Bickford, D. Shannahoff-Khalsa
-doi:
+source: https://pubmed.ncbi.nlm.nih.gov/3449485/
 date: 1987
 tags:
   - level-intermediate
@@ -23,7 +23,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

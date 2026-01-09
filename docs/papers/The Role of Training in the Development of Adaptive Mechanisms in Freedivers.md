@@ -1,7 +1,7 @@
 ---
 title: The Role of Training in the Development of Adaptive Mechanisms in Freedivers
 authors: Andrzej Ostrowski, Marek Strzała, Arkadiusz Stanula, Mirosław Juszkiewicz, Wanda Pilch, Adam Maszczyk
-doi:
+source: https://doi.org/10.2478/v10078-012-0036-2
 date: 01 May 2012
 tags:
   - level-intermediate
@@ -30,7 +30,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

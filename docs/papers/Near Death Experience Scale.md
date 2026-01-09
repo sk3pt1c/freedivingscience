@@ -1,7 +1,7 @@
 ---
-title: The Near-Death Experience Scale
+title: The Near-Death Experience Scale. Construction, reliability, and validity.
 authors: Bruce Greyson
-doi:
+source: https://doi.org/10.1097/00005053-198306000-00007
 date: June 1983
 tags:
   - near-death-experience
@@ -26,7 +26,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

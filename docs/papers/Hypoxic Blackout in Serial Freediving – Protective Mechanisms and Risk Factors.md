@@ -1,7 +1,7 @@
 ---
 title: Hypoxic Blackout in Serial Freediving, Protective Mechanisms and Risk Factors
 authors: Frank Pernett
-doi:
+source: https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1848785&dswid=3164
 date: 03 May 2024
 tags:
   - blackout
@@ -29,7 +29,7 @@ level: advanced
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Advanced

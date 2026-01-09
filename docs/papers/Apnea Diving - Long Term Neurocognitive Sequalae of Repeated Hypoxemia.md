@@ -1,8 +1,8 @@
 ---
-title: Apnea Diving   Long Term Neurocognitive Sequalae Of Repeated Hypoxemia
+title: Apnea Diving - Long Term Neurocognitive Sequalae Of Repeated Hypoxemia
 authors: Lynne Ridgway and Ken McFarland
-doi:
-date: 2006
+source: https://doi.org/10.1080/13854040590947407
+date: February 2006
 tags:
   - hypoxemia
   - hypoxia
@@ -20,7 +20,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

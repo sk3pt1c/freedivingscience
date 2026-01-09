@@ -1,7 +1,7 @@
 ---
 title: Barotrauma And Sipe In Freediving 2024 (SDCED/DAN WORKSHOP)
 authors: Peter Lindholm, Oliver Christen-Drew, Matías Nochetto, Frauke Tillmans, Elaine D. Yu, Richard E. Moon, Susan R. Hopkins, Benjamin A. Sebreros, Vitomir Maričić, Anna Lussier, Bradford J. Smith, Maria Hårdstedt, Gilbert E. Boswell, Andrew M. Luks, Peter Germonpré, Igor Barković, Claudia Seiler, John R. Fitz-Clarke, Fernando Silva, Alexander Patrician, Juan M. Valdivia-Valdivia
-doi:
+source: UC San Diego / DAN
 date: 2024
 tags:
   - lung squeeze
@@ -29,7 +29,7 @@ level: advanced
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Advanced

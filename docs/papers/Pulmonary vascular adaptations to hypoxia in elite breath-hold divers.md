@@ -1,7 +1,7 @@
 ---
 title: Pulmonary Vascular Adaptations to Hypoxia in Elite Breath-Hold Divers
 authors: Thomas Kjeld, Anders Brenøe Isbrand, Henrik Christian Arendrup, Jens Højberg, Jacob Bejder, Thomas O. Krag, John Vissing, Lars Poulsen Tolbod, Johannes Hendrik Harms, Lars Christian Gormsen, Dan Fuglø, Egon Godthaab Hansen
-doi:
+source: https://doi.org/10.3389/fphys.2024.1296537
 date: 31 July 2024
 tags:
   - level-advanced
@@ -36,7 +36,7 @@ level: advanced
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Advanced

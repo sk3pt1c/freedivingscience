@@ -1,7 +1,7 @@
 ---
 title: The Effect of a Sauna on Blood Oxygen Transport and the Prooxidant–Antioxidant Balance in Untrained Subjects
 authors: V. V. Zinchuk, D. D. Zhadko
-doi:
+source: https://pubmed.ncbi.nlm.nih.gov/23101249/
 date: 11 April 2011
 tags:
   - level-intermediate
@@ -30,7 +30,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

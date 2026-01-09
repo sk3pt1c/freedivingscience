@@ -1,8 +1,8 @@
 ---
 title: Deadly Diving? Physiological and Behavioural Management of Decompression Stress in Diving Mammals
 authors: S. K. Hooker, A. Fahlman, M. J. Moore, N. Aguilar de Soto, Y. Bernaldo de Quirós, A. O. Brubakk, D. P. Costa, A. M. Costidis, S. Dennison, K. J. Falke, A. Fernandez, M. Ferrigno, J. R. Fitz-Clarke, M. M. Garner, D. S. Houser, P. D. Jepson, D. R. Ketten, P. H. Kvadsheim, P. T. Madsen, N. W. Pollock, D. S. Rotstein, T. K. Rowles, S. E. Simmons, W. Van Bonn, P. K. Weathersby, M. J. Weise, T. M. Williams, P. L. Tyack
-doi:
-date: 2011
+source: https://doi.org/10.1098/rspb.2011.2088
+date: 22 March 2012
 tags:
   - decompression-sickness
   - dcs
@@ -26,7 +26,7 @@ level: advanced
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Advanced

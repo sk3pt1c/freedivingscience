@@ -1,7 +1,7 @@
 ---
 title: The Limits of Breath Holding
 authors: Michael J. Parkes
-doi:
+source: https://www.scientificamerican.com/article/the-limits-of-breath-holding/
 date: April 2012
 tags:
   - level-beginner
@@ -25,7 +25,7 @@ level: beginner
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

@@ -1,7 +1,7 @@
 ---
 title: Using Underwater Pulse Oximetry in Freediving to Extreme Depths to Study Risk of Hypoxic Blackout and Diving Response Phases
 authors: Eric Mulder, Arne Sieber, Erika Schagatay
-doi:
+source: https://doi.org/10.3389/fphys.2021.651128
 date: 01 April 2021
 tags:
   - level-intermediate
@@ -27,7 +27,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

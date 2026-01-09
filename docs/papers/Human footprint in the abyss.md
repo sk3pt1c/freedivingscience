@@ -1,7 +1,7 @@
 ---
 title: Human Footprint in the Abyss, 30 Year Records of Deep-Sea Plastic Debris
 authors: Sanae Chiba, Hideaki Saito, Ruth Fletcher, Takayuki Yogi, Makino Kayo, Shin Miyagi, Moritaka Ogido, Katsunori Fujikura
-doi:
+source: https://doi.org/10.1016/j.marpol.2018.03.022
 date: 20 March 2018
 tags:
   - plastic-pollution
@@ -22,7 +22,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

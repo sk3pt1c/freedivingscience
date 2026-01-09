@@ -1,7 +1,7 @@
 ---
 title: Carbon Dioxide Transport
 authors: GJ Arthurs, M Sudhakar
-doi:
+source: https://doi.org/10.1093/bjaceaccp/mki050
 date: 14 October 2005
 tags:
   - carbon dioxide
@@ -21,7 +21,7 @@ level: advanced
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

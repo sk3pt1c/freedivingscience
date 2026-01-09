@@ -1,7 +1,7 @@
 ---
 title: Estimating the Effect of Lung Collapse and Pulmonary Shunt on Gas Exchange During Breath-Hold Diving. The Scholander and Kooyman Legacy
 authors: A. Fahlman, S. K. Hooker, A. Olszowka, B. L. Bostrom, D. R. Jones
-doi:
+source: https://doi.org/10.1016/j.resp.2008.09.013
 date: 26 September 2008
 tags:
   - lung collapse
@@ -24,7 +24,7 @@ level: advanced
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Advanced

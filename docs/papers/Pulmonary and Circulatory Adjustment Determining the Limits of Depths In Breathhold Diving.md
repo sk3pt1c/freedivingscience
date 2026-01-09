@@ -1,7 +1,7 @@
 ---
 title: Pulmonary and Circulatory Adjustment Determining the Limits of Depths in Breath-Hold Diving
 authors: Karl E. Schaefer, Robert D. Allison, James H. Dougherty Jr., Charles R. Carey, Roger Walker, Frank Jost, Donald Parker
-doi:
+source: https://doi.org/10.1126/science.162.3857.1020
 date: 05 June 1968
 tags:
   - level-intermediate
@@ -23,7 +23,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

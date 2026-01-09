@@ -1,8 +1,8 @@
 ---
 title: Cervical spondylosis as a possible hidden reason beyond delayed phrenic nerve distal motor latency
 authors: Rowaida Hamdy Ali, Mai Mohamed Farouk and Salwa Galal Moussa
-doi:
-date: 2021
+source: https://doi.org/10.1186/s43166-020-00051-0
+date: December 2021
 tags:
   - diaphragm
   - phrenic nerve
@@ -19,7 +19,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

@@ -1,7 +1,7 @@
 ---
 title: Can SaO2 Measurements During Recovery Be Used to Detect Lung Barotrauma in Freedivers
 authors: Erika Schagatay
-doi:
+source: n/a
 date: 14 November 2015
 tags:
   - level-beginner
@@ -22,7 +22,7 @@ level: beginner
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

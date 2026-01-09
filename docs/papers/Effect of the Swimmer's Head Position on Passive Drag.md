@@ -1,7 +1,7 @@
 ---
 title: Effect Of The Swimmer'S Head Position On Passive Drag
 authors: Matteo Cortesi, Giorgio Gatta
-doi:
+source: https://doi.org/10.1515/hukin-2015-0106
 date: 2015
 tags:
   - streamlining
@@ -19,7 +19,7 @@ level: beginner
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

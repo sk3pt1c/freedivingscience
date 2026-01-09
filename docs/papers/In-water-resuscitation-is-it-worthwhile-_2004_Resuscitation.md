@@ -1,7 +1,7 @@
 ---
 title: In-Water Resuscitation, Is It Worthwhile?
 authors: David Szpilman, Márcio Soares
-doi:
+source: https://doi.org/10.1016/j.resuscitation.2004.03.017
 date: 14 March 2004
 tags:
   - rescue
@@ -22,7 +22,7 @@ level: beginner
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

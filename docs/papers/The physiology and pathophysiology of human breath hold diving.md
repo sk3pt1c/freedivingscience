@@ -1,7 +1,7 @@
 ---
 title: The Physiology and Pathophysiology of Human Breath-Hold Diving
 authors: Peter Lindholm, Claes E. G. Lundgren
-doi:
+source: https://doi.org/10.1152/japplphysiol.90991.2008
 date: 30 October 2008
 tags:
   - level-intermediate
@@ -33,7 +33,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

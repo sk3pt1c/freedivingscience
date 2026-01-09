@@ -1,7 +1,7 @@
 ---
 title: Ear Barotrauma
 authors: Unknown
-doi:
+source: http://www.divingmedicine.info
 date: Unknown
 tags:
   - equalization
@@ -22,7 +22,7 @@ level: beginner
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

@@ -1,8 +1,8 @@
 ---
 title: Reactive Oxygen Species (ROS) and Hypoxia, Quick Background Notes
-authors:
-doi:
-date:
+authors: n/a
+source: n/a
+date: n/a
 tags:
   - ros
   - reactive-oxygen-species
@@ -30,7 +30,7 @@ level: beginner
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

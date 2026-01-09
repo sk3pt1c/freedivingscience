@@ -1,7 +1,7 @@
 ---
 title: The Heart Rate of Breath-Hold Divers During Static Apnea, Effects of Competitive Stress
 authors: Peter Lindholm, Jan Nordh, Mats Gennser
-doi:
+source: https://pubmed.ncbi.nlm.nih.gov/16716062/
 date: 01 April 2006
 tags:
   - level-beginner
@@ -23,7 +23,7 @@ level: beginner
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}  
 
 > **Reading level:** Beginner

@@ -1,8 +1,8 @@
 ---
 title: Efficacy Of A Novel Method For Inspiratory Muscle Training In Chronic Obstructive Pulmonary Disease Patients
 authors: D.	Langer,	N.	Charususin,	C. Jacome, M.	Hoffman, A.	McConnell, M.	Decramer and R. Gosselink
-doi:
-date: Unknown
+source: https://doi.org/10.2522/ptj.20140245
+date: September 2015
 tags:
   - inspiratory muscle training
   - IMT
@@ -21,7 +21,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

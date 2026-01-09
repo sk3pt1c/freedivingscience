@@ -1,7 +1,7 @@
 ---
 title: Letter to the Editor, On the Increased Haemoglobin Concentration and Improved Oxygen Uptake After Spirulina Supplementation
 authors: Harald Engan, Alexander Patrician, Erika Schagatay
-doi:
+source: https://doi.org/10.1007/s00421-021-04649-w
 date: 19 February 2021
 tags:
   - level-beginner
@@ -21,7 +21,7 @@ level: beginner
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

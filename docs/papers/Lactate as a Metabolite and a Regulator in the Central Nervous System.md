@@ -1,7 +1,7 @@
 ---
 title: Lactate as a Metabolite and a Regulator in the Central Nervous System
 authors: Patrizia Proia, Carlo Maria Di Liegro, Gabriella Schiera, Anna Fricano, Italia Di Liegro
-doi:
+source: https://doi.org/10.3390/ijms17091450
 date: 01 September 2016
 tags:
   - lactate
@@ -27,7 +27,7 @@ level: advanced
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Advanced

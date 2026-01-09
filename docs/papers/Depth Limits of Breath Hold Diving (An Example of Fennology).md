@@ -1,8 +1,8 @@
 ---
 title: Depth Limits Of Breath Hold Diving (An Example Of Fennology)
 authors: Albert B. Craig, Jr.
-doi:
-date: 1968
+source: https://doi.org/10.1016/0034-5687(68)90073-x
+date: June 1968
 tags:
   - depth limits
   - lung squeeze
@@ -21,7 +21,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

@@ -1,7 +1,7 @@
 ---
 title: Do Elite Breath Hold Divers Suffer From Mild Short Term Memory Impairments?
 authors: François Billaut, Patrice Gueit, Sylvane Faure, Guillaume Costalat, Frédéric Lemaître
-doi:
+source: https://doi.org/10.1139/apnm-2017-0245
 date: October 2017
 tags:
   - cognition
@@ -20,7 +20,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

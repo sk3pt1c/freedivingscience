@@ -1,7 +1,7 @@
 ---
 title: Pulmonary Function Testing, Spirometry and Related Tests (Book Chapter)
 authors: Rolf M. Schlegelmilch, Rüdiger Kramme
-doi:
+source: http://www.springer.com/978-3-540-74657-7
 date: 13 March 2015
 tags:
   - level-intermediate
@@ -28,7 +28,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

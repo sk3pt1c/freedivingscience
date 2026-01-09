@@ -1,7 +1,7 @@
 ---
 title: Rhythm of Breathing Affects Memory and Fear
 authors: Neuroscience News
-doi:
+source: https://neurosciencenews.com/memory-fear-breathing-5699/
 date: 07 December 2016
 tags:
   - level-beginner
@@ -22,7 +22,7 @@ level: beginner
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

@@ -1,7 +1,7 @@
 ---
 title: Kinetic Analysis of the Human Blood-Brain Barrier Transport of Lactate and Its Influence by Hypercapnia
 authors: Gitte Moos Knudsen, Olaf B. Paulson, Marianne M. Hertz
-doi:
+source: https://doi.org/10.1038/jcbfm.1991.107
 date: 1991
 tags:
   - lactate
@@ -20,7 +20,7 @@ level: advanced
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Advanced

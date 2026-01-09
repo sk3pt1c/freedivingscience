@@ -1,8 +1,8 @@
 ---
 title: Fin Propulsion, Physics and Material Properties
-authors:
-doi:
-date:
+authors: n/a
+source: n/a
+date: n/a
 tags:
   - fins
   - fin-propulsion
@@ -29,7 +29,7 @@ level: beginner
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Beginner

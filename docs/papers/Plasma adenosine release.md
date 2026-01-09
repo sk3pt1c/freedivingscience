@@ -1,7 +1,7 @@
 ---
 title: Plasma Adenosine Release Is Associated with Bradycardia and Transient Loss of Consciousness During Experimental Breath-Hold Diving
 authors: Fabrice Joulia, Mathieu Coulange, Frédéric Lemaître, Guillaume Costalat, Frédéric Franceschi, Vlad Gariboldi, Laetitia Nee, Julien Fromonot, Laurie Bruzzese, Gilles Gravier, Nathalie Kipson, Yves Jammes, Alain Boussuges, Michele Brignole, Jean Claude Deharo, Régis Guieu
-doi:
+source: https://doi.org/10.1016/j.ijcard.2013.08.053
 date: 27 August 2013
 tags:
   - level-advanced
@@ -23,7 +23,7 @@ level: advanced
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Advanced

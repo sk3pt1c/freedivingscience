@@ -1,7 +1,7 @@
 ---
 title: Thoracic Collapse as Affected by the Retia Thoracica in the Dolphin
 authors: Clifford A. Hui
-doi:
+source: https://doi.org/10.1016/0034-5687(75)90051-1
 date: 18 June 1975
 tags:
   - level-intermediate
@@ -23,7 +23,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

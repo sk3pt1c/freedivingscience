@@ -1,7 +1,7 @@
 ---
 title: Nitric Oxide And Oxidative Stress Changes At Depth in Breath-Hold Diving
 authors: Danilo Cialoni, Andrea Brizzolari, Michele Samaja, Gerardo Bosco, Matteo Paganini, Massimo Pieri, Valentina Lancellotti and Alessandro Marroni
-doi:
+source: https://doi.org/10.3389/fphys.2020.609642
 date: 07 January 2021
 tags:
   - nitric oxide
@@ -15,7 +15,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

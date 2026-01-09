@@ -1,7 +1,7 @@
 ---
 title: Changes in hormones after apneic hypoxia/hypercapnia - An investigation in voluntary apnea divers
 authors: R.C. Dolscheid-Pommerich, B. Stoffel-Wagnera, R. Fimmers, L. Eichhorn
-doi:
+source: https://doi.org/10.1016/j.resp.2022.103845
 date: 13 January 2022
 tags:
   - hormones
@@ -21,7 +21,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

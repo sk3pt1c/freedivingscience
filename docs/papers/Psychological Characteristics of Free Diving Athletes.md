@@ -1,7 +1,7 @@
 ---
 title: Psychological Characteristics of Free Diving Athletes, A Comparative Study
 authors: Neşe Alkan, Tolga Akış
-doi:
+source: https://ijhss.thebrpi.org/journals/Vol_3_No_15_August_2013/18.pdf
 date: August 2013
 tags:
   - level-beginner
@@ -24,7 +24,7 @@ level: beginner
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}  
 
 > **Reading level:** Beginner

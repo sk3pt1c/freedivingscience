@@ -1,7 +1,7 @@
 ---
 title: The Physiological Consequences of Breath-Hold Diving in Marine Mammals, The Scholander Legacy
 authors: Andreas Fahlman (Topic Editor)
-doi:
+source: https://doi.org/10.3389/fphys.2012.00473
 date: March 2013
 tags:
   - level-intermediate
@@ -29,7 +29,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate

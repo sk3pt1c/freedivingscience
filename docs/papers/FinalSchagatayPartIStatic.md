@@ -1,7 +1,7 @@
 ---
 title: Predicting Performance in Competitive Apnoea Diving. Part I - Static Apnea
 authors: Erika Schagatay
-doi:
+source: https://pubmed.ncbi.nlm.nih.gov/22753202/
 date: 01 June 2009
 tags:
   - static-apnea
@@ -25,7 +25,7 @@ level: intermediate
 # {{ page.meta.title }}
 
 **Authors:** {{ page.meta.authors }}  
-**DOI:** {{ page.meta.doi }}  
+**DOI / Source:** {{ page.meta.source }}  
 **Date:** {{ page.meta.date }}
 
 > **Reading level:** Intermediate
