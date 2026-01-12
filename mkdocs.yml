@@ -32,3 +32,8 @@ nav:
   - Questions: questions/
   - Tags (Full paper list): tags.md
   - Contact: contact.md
+
+extra:
+  analytics:
+    provider: google
+    property: G-FTNTTF8EWM
