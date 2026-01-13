@@ -9,3 +9,51 @@
 .md-nav__title[for="__drawer"] {
   display: none;
 }
+
+/* Keep logo visible on smaller screens (all orientations) */
+@media (max-width: 76.234375em) {
+  .md-header__button.md-logo {
+    display: inline-flex !important;
+  }
+}
+
+/* Keep logo visible on smaller screens */
+@media (max-width: 76.234375em) {
+  .md-header__button.md-logo {
+    display: inline-flex !important;
+  }
+}
+
+/* Small widths (including Mac narrow window): hamburger -> logo -> title -> search */
+@media (max-width: 76.234375em) {
+  .md-header__button.md-icon[for="__drawer"] { order: 0 !important; }
+  .md-header__button.md-logo { order: 1 !important; }
+  .md-header__title { order: 2 !important; }
+  .md-header__button.md-icon[for="__search"] { order: 3 !important; }
+  .md-search {
+    margin-left: auto !important;  /* push right */
+    order: 3 !important;           /* after title */
+  }
+}
+
+/* Phone portrait only: shorten title text to "FS Wiki" */
+@media (max-width: 600px) and (orientation: portrait) and (hover: none) and (pointer: coarse) {
+  .md-header__title .md-header__topic { font-size: 0 !important; }
+  .md-header__title .md-header__topic::after {
+    content: "FS Wiki";
+    font-size: 1rem;
+    font-weight: 600;
+    display: inline-block;
+  }
+}
+
+/* Not phone portrait: ensure full title shows */
+@media (min-width: 601px), (orientation: landscape) {
+  .md-header__title .md-header__topic {
+    font-size: initial !important;
+    visibility: visible !important;
+  }
+  .md-header__title .md-header__topic::after {
+    content: none !important;
+  }
+}
